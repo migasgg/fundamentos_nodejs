@@ -1,4 +1,4 @@
-# fundamentos_nodejs
+# Fundamentos de NodeJS
 
 Pequeno projetos para treinar aprender rotas e métodos com nodeJS/ express 
 
